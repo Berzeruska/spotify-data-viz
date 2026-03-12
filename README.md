@@ -38,7 +38,7 @@ A janela interativa abre automaticamente.
 
 ## Estrutura
 ```
-spotify-data-viz/
+spotify-data-viz/sea-py/
 ├── main.py
 ├── requirements.txt
 ├── README.md
