@@ -1,0 +1,206 @@
+track_name,artist,genre,year,popularity,bpm,energy,danceability
+Shape of You,Ed Sheeran,pop,2017,96,96,0.65,0.83
+Blinding Lights,The Weeknd,pop,2019,100,171,0.73,0.51
+Dance Monkey,Tones and I,pop,2019,98,98,0.63,0.82
+Rockstar,Post Malone,hip-hop,2017,95,160,0.52,0.74
+God's Plan,Drake,hip-hop,2018,97,77,0.45,0.75
+Sicko Mode,Travis Scott,hip-hop,2018,94,155,0.72,0.59
+Old Town Road,Lil Nas X,hip-hop,2019,99,136,0.62,0.76
+HUMBLE.,Kendrick Lamar,hip-hop,2017,94,150,0.62,0.91
+Sunflower,Post Malone,hip-hop,2018,95,93,0.48,0.76
+Lucid Dreams,Juice WRLD,hip-hop,2018,93,84,0.39,0.51
+Havana,Camila Cabello,pop,2017,94,105,0.61,0.76
+One Dance,Drake,hip-hop,2016,95,104,0.64,0.79
+Closer,The Chainsmokers,dance,2016,96,95,0.82,0.75
+Don't Let Me Down,The Chainsmokers,dance,2016,92,160,0.90,0.52
+Something Just Like This,The Chainsmokers,dance,2017,91,103,0.82,0.64
+Lean On,Major Lazer,dance,2015,93,98,0.79,0.72
+Cold Water,Major Lazer,dance,2016,88,96,0.70,0.74
+Happier,Marshmello,dance,2018,91,100,0.81,0.64
+Alone,Marshmello,dance,2016,89,128,0.94,0.67
+Friends,Marshmello,dance,2018,86,95,0.78,0.61
+Shallow,Lady Gaga,pop,2018,97,96,0.47,0.34
+Someone Like You,Adele,pop,2011,97,68,0.17,0.37
+Rolling in the Deep,Adele,pop,2010,97,105,0.62,0.73
+Hello,Adele,pop,2015,96,79,0.42,0.33
+Easy On Me,Adele,pop,2021,98,72,0.25,0.57
+Stay,The Kid LAROI,pop,2021,99,170,0.71,0.81
+Levitating,Dua Lipa,pop,2020,97,103,0.82,0.70
+Blot,Dua Lipa,pop,2020,93,95,0.81,0.63
+Don't Start Now,Dua Lipa,pop,2019,96,124,0.81,0.76
+Physical,Dua Lipa,pop,2020,92,121,0.90,0.63
+Dynamite,BTS,k-pop,2020,98,114,0.74,0.74
+Butter,BTS,k-pop,2021,97,110,0.67,0.80
+Boy With Luv,BTS,k-pop,2019,94,181,0.74,0.66
+DNA,BTS,k-pop,2017,92,148,0.84,0.80
+Permission to Dance,BTS,k-pop,2021,93,134,0.67,0.82
+Fake Love,BTS,k-pop,2018,90,129,0.68,0.64
+Life Goes On,BTS,k-pop,2020,92,77,0.51,0.80
+ON,BTS,k-pop,2020,88,127,0.80,0.61
+Savage Love,Jawsh 685,pop,2020,97,93,0.62,0.83
+Watermelon Sugar,Harry Styles,pop,2019,98,95,0.82,0.55
+Adore You,Harry Styles,pop,2019,91,165,0.64,0.53
+As It Was,Harry Styles,pop,2022,100,124,0.73,0.52
+Circles,Post Malone,pop,2019,92,120,0.76,0.69
+Goodbyes,Post Malone,hip-hop,2019,89,140,0.58,0.59
+Wow.,Post Malone,hip-hop,2019,88,150,0.57,0.79
+Bohemian Rhapsody,Queen,rock,1975,92,135,0.40,0.22
+Don't Stop Me Now,Queen,rock,1978,88,156,0.97,0.36
+We Will Rock You,Queen,rock,1977,86,82,0.59,0.47
+Hotel California,Eagles,rock,1977,87,75,0.38,0.33
+Sweet Child O' Mine,Guns N' Roses,rock,1987,90,125,0.81,0.36
+November Rain,Guns N' Roses,rock,1991,88,74,0.30,0.28
+Welcome to the Jungle,Guns N' Roses,rock,1987,87,126,0.91,0.38
+Smells Like Teen Spirit,Nirvana,rock,1991,92,117,0.90,0.60
+Come As You Are,Nirvana,rock,1991,86,120,0.74,0.57
+Stairway to Heaven,Led Zeppelin,rock,1971,87,82,0.34,0.34
+Whole Lotta Love,Led Zeppelin,rock,1969,84,90,0.82,0.36
+Back in Black,AC/DC,rock,1980,89,182,0.73,0.35
+Highway to Hell,AC/DC,rock,1979,88,116,0.72,0.49
+Thunderstruck,AC/DC,rock,1990,88,134,0.74,0.37
+Mr. Brightside,The Killers,indie-rock,2003,90,148,0.90,0.34
+Somebody Told Me,The Killers,indie-rock,2004,84,163,0.84,0.49
+Human,The Killers,indie-rock,2008,85,116,0.65,0.54
+Are You Gonna Be My Girl,Jet,indie-rock,2003,80,206,0.84,0.52
+Take Me Out,Franz Ferdinand,indie-rock,2004,82,152,0.89,0.59
+Do I Wanna Know?,Arctic Monkeys,indie-rock,2013,90,85,0.54,0.47
+R U Mine?,Arctic Monkeys,indie-rock,2013,87,157,0.70,0.47
+505,Arctic Monkeys,indie-rock,2007,88,70,0.32,0.35
+Fluorescent Adolescent,Arctic Monkeys,indie-rock,2011,82,159,0.75,0.57
+Crying Lightning,Arctic Monkeys,indie-rock,2009,80,144,0.49,0.41
+Seven Nation Army,The White Stripes,indie-rock,2003,89,124,0.56,0.63
+Fell in Love with a Girl,The White Stripes,indie-rock,2002,77,195,0.91,0.69
+Riptide,Vance Joy,indie-rock,2013,84,97,0.55,0.59
+Take Me to Church,Hozier,indie-rock,2013,89,128,0.55,0.65
+Work Song,Hozier,indie-rock,2014,82,103,0.52,0.60
+Angels,Robbie Williams,pop,1997,89,65,0.41,0.39
+Feel,Robbie Williams,pop,2002,83,82,0.43,0.52
+Let Me Entertain You,Robbie Williams,pop,1998,80,155,0.75,0.65
+Umbrella,Rihanna,pop,2007,89,124,0.62,0.74
+We Found Love,Rihanna,dance,2011,92,128,0.89,0.72
+Only Girl,Rihanna,dance,2010,88,126,0.84,0.73
+Diamonds,Rihanna,pop,2012,91,123,0.72,0.59
+Stay,Rihanna,pop,2012,88,120,0.34,0.44
+Poker Face,Lady Gaga,dance,2008,93,120,0.75,0.84
+Just Dance,Lady Gaga,dance,2008,88,119,0.89,0.78
+Bad Romance,Lady Gaga,dance,2009,92,119,0.76,0.75
+Born This Way,Lady Gaga,pop,2011,89,124,0.81,0.61
+Edge of Glory,Lady Gaga,pop,2011,83,128,0.87,0.60
+Telephone,Lady Gaga,dance,2009,86,122,0.85,0.78
+Titanium,David Guetta,dance,2011,90,126,0.81,0.64
+Without You,David Guetta,dance,2011,87,128,0.76,0.63
+Levels,Avicii,dance,2011,89,126,0.78,0.73
+Wake Me Up,Avicii,dance,2013,90,124,0.62,0.73
+Hey Brother,Avicii,dance,2013,86,128,0.79,0.61
+The Nights,Avicii,dance,2014,88,128,0.79,0.59
+Clarity,Zedd,dance,2012,87,128,0.89,0.63
+Beautiful Now,Zedd,dance,2015,84,128,0.88,0.60
+Stay the Night,Zedd,dance,2013,82,128,0.91,0.62
+Lean On (feat. MO),Major Lazer,dance,2015,90,98,0.79,0.72
+Cheap Thrills,Sia,pop,2016,93,95,0.64,0.79
+Chandelier,Sia,pop,2014,92,133,0.62,0.37
+Elastic Heart,Sia,pop,2014,88,130,0.65,0.48
+The Greatest,Sia,pop,2016,84,120,0.76,0.60
+Alive,Sia,pop,2015,82,143,0.79,0.50
+Thinking Out Loud,Ed Sheeran,pop,2014,93,79,0.51,0.74
+Photograph,Ed Sheeran,pop,2014,91,108,0.41,0.55
+Castle on the Hill,Ed Sheeran,pop,2017,89,135,0.68,0.47
+Perfect,Ed Sheeran,pop,2017,95,95,0.45,0.58
+Galway Girl,Ed Sheeran,pop,2017,87,99,0.77,0.75
+Bad Guy,Billie Eilish,pop,2019,96,135,0.43,0.70
+When the Party's Over,Billie Eilish,pop,2018,92,119,0.22,0.60
+Bury a Friend,Billie Eilish,pop,2019,88,132,0.49,0.61
+Everything I Wanted,Billie Eilish,pop,2019,89,120,0.23,0.77
+Happier Than Ever,Billie Eilish,pop,2021,92,148,0.47,0.45
+Therefore I Am,Billie Eilish,pop,2020,91,130,0.60,0.73
+lovely,Billie Eilish,pop,2018,90,115,0.19,0.36
+Peaches,Justin Bieber,pop,2021,95,90,0.73,0.63
+Intentions,Justin Bieber,pop,2020,88,111,0.59,0.74
+Yummy,Justin Bieber,pop,2020,85,122,0.72,0.75
+Love Yourself,Justin Bieber,pop,2015,93,100,0.49,0.62
+Sorry,Justin Bieber,pop,2015,94,100,0.78,0.72
+What Do You Mean?,Justin Bieber,pop,2015,91,142,0.79,0.71
+Company,Justin Bieber,pop,2015,84,125,0.73,0.73
+Senorita,Shawn Mendes,pop,2019,96,117,0.75,0.75
+In My Blood,Shawn Mendes,pop,2018,89,128,0.72,0.62
+Stitches,Shawn Mendes,pop,2015,88,146,0.61,0.59
+There's Nothing Holdin' Me Back,Shawn Mendes,pop,2017,90,145,0.68,0.76
+Treat You Better,Shawn Mendes,pop,2016,89,100,0.64,0.62
+Mercy,Shawn Mendes,pop,2016,84,104,0.71,0.55
+Industry Baby,Lil Nas X,hip-hop,2021,95,150,0.70,0.77
+Montero,Lil Nas X,hip-hop,2021,94,166,0.70,0.59
+Holiday,Lil Nas X,hip-hop,2020,87,150,0.72,0.80
+Panini,Lil Nas X,hip-hop,2019,85,190,0.49,0.73
+Mood,24kGoldn,hip-hop,2020,96,91,0.77,0.70
+Therefore I Am,Billie Eilish,pop,2020,90,130,0.60,0.73
+Astronaut in the Ocean,Masked Wolf,hip-hop,2021,93,90,0.71,0.76
+Drivers License,Olivia Rodrigo,pop,2021,96,76,0.44,0.58
+Good 4 U,Olivia Rodrigo,pop,2021,97,166,0.66,0.56
+deja vu,Olivia Rodrigo,pop,2021,91,106,0.44,0.61
+brutal,Olivia Rodrigo,pop,2021,87,168,0.82,0.62
+traitor,Olivia Rodrigo,pop,2021,88,85,0.20,0.43
+Heat Waves,Glass Animals,indie-rock,2020,99,81,0.55,0.75
+Gooey,Glass Animals,indie-rock,2014,82,105,0.64,0.57
+Your Love (Nine Lives),Glass Animals,indie-rock,2020,83,144,0.73,0.67
+Stressed Out,twenty one pilots,indie-rock,2015,93,170,0.59,0.74
+Heathens,twenty one pilots,indie-rock,2016,91,100,0.63,0.73
+Ride,twenty one pilots,indie-rock,2015,88,148,0.79,0.54
+Holding On to You,twenty one pilots,indie-rock,2012,83,158,0.79,0.72
+Jumpsuit,twenty one pilots,indie-rock,2018,82,146,0.68,0.51
+Overture,twenty one pilots,indie-rock,2018,78,122,0.68,0.58
+Lovely Day,Bill Withers,soul,1977,89,96,0.66,0.72
+Ain't No Sunshine,Bill Withers,soul,1971,88,82,0.39,0.52
+Lean on Me,Bill Withers,soul,1972,90,73,0.54,0.69
+Use Me,Bill Withers,soul,1972,82,120,0.71,0.75
+Just the Two of Us,Bill Withers,soul,1977,85,103,0.60,0.62
+I Will Always Love You,Whitney Houston,soul,1992,95,68,0.41,0.28
+Greatest Love of All,Whitney Houston,soul,1985,88,66,0.25,0.24
+I Wanna Dance with Somebody,Whitney Houston,dance,1987,92,119,0.84,0.76
+So Emotional,Whitney Houston,pop,1987,80,133,0.85,0.73
+I Have Nothing,Whitney Houston,soul,1992,85,73,0.35,0.27
+Purple Rain,Prince,soul,1984,90,113,0.32,0.40
+Kiss,Prince,soul,1986,88,113,0.82,0.73
+When Doves Cry,Prince,soul,1984,86,105,0.55,0.60
+Sign 'O' the Times,Prince,soul,1987,82,117,0.71,0.57
+Let's Go Crazy,Prince,soul,1984,85,155,0.80,0.58
+Superstition,Stevie Wonder,soul,1972,92,100,0.90,0.72
+Higher Ground,Stevie Wonder,soul,1973,85,132,0.82,0.72
+Sir Duke,Stevie Wonder,soul,1976,88,104,0.84,0.62
+I Wish,Stevie Wonder,soul,1976,87,108,0.83,0.73
+Isn't She Lovely,Stevie Wonder,soul,1976,89,128,0.71,0.64
+What's Going On,Marvin Gaye,soul,1971,89,97,0.49,0.54
+Let's Get It On,Marvin Gaye,soul,1973,90,94,0.63,0.64
+Sexual Healing,Marvin Gaye,soul,1982,88,97,0.67,0.62
+I Heard It Through the Grapevine,Marvin Gaye,soul,1968,86,120,0.72,0.56
+Mercy Mercy Me,Marvin Gaye,soul,1971,82,138,0.31,0.52
+Thriller,Michael Jackson,pop,1982,92,118,0.73,0.65
+Billie Jean,Michael Jackson,pop,1982,93,117,0.80,0.59
+Beat It,Michael Jackson,pop,1982,90,139,0.78,0.49
+Black or White,Michael Jackson,pop,1991,88,118,0.68,0.64
+Man in the Mirror,Michael Jackson,pop,1987,91,97,0.66,0.60
+Bad,Michael Jackson,pop,1987,89,114,0.68,0.59
+Smooth Criminal,Michael Jackson,pop,1987,87,118,0.82,0.70
+Don't Stop 'Til You Get Enough,Michael Jackson,dance,1979,85,114,0.81,0.80
+Rock with You,Michael Jackson,dance,1979,87,113,0.76,0.65
+Off the Wall,Michael Jackson,dance,1979,84,109,0.75,0.69
+Rolling in the Deep,Adele,pop,2010,97,105,0.62,0.73
+Clocks,Coldplay,rock,2002,88,131,0.71,0.52
+Yellow,Coldplay,rock,2000,89,89,0.49,0.34
+The Scientist,Coldplay,rock,2002,87,75,0.24,0.42
+Fix You,Coldplay,rock,2005,91,138,0.28,0.32
+Speed of Sound,Coldplay,rock,2005,84,120,0.70,0.47
+Viva la Vida,Coldplay,rock,2008,90,138,0.58,0.46
+Paradise,Coldplay,pop,2011,88,137,0.79,0.60
+A Sky Full of Stars,Coldplay,dance,2014,87,125,0.90,0.55
+Adventure of a Lifetime,Coldplay,pop,2015,85,114,0.73,0.74
+My Universe,Coldplay,pop,2021,87,92,0.73,0.69
+Numb,Linkin Park,rock,2003,90,172,0.92,0.54
+In the End,Linkin Park,rock,2000,92,105,0.89,0.58
+Crawling,Linkin Park,rock,2001,85,89,0.70,0.47
+Faint,Linkin Park,rock,2003,84,135,0.94,0.60
+Breaking the Habit,Linkin Park,rock,2004,83,91,0.72,0.48
+Shadow of the Day,Linkin Park,rock,2007,81,78,0.38,0.44
+New Divide,Linkin Park,rock,2009,82,137,0.78,0.50
+Waiting for the End,Linkin Park,rock,2010,80,105,0.67,0.56
+Burn It Down,Linkin Park,rock,2012,79,170,0.89,0.49
+Heavy,Linkin Park,rock,2017,78,135,0.58,0.47
