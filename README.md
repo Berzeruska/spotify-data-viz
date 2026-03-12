@@ -40,6 +40,8 @@ A janela interativa abre automaticamente.
 ```
 spotify-data-viz/
 ├── main.py
-    └── data/
-            └── spotify_sample.csv
+├── requirements.txt
+├── README.md
+└── data/
+    └── spotify_sample.csv
 
